@@ -46,7 +46,7 @@ cette librairie est utile pour créer des graphes (ici à partir de mes tables d
 J'ai fait deux schémas car l'un n'était pas très lisible avec tous les noms des champs des tables. Évidemment, sur mon ordinateur en local, je peux zoomer et ce n'est pas flou (il y a même la possibilité d'exporter son schéma en SVG si vous préférez, mais ça change quelques paramètres) :
 ![img_1.png](img/big-bdd.png)
 
-Sans le nom des tables :
+Sans les champs des tables :
 ![img.png](img/small-bdd.png)
 
 Mais j'ai gardé les deux, je trouve ça pratique.

@@ -1,3 +1,5 @@
+# Nom du projet : DBSchema
+
 ## Pourquoi ce projet (le problème)
 
 L'objectif de ce code est de créer une visualisation de notre base de données (pas de ses valeurs mais de ses tables et de ses champs) pour comprendre rapidement notre base de données (bdd). J'ai essayé de chercher des outils, mais il n'y avait pas de quoi pour représenter la table en elle-même (il y en a par contre beaucoup pour traiter, afficher, travailler avec les données de la bdd).

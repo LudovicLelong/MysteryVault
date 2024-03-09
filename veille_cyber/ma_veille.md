@@ -10,6 +10,8 @@ avec également des sondages et, bien sûr, une veille spécifique à la cyber.
 [Ma veille des marchés d’entreprises](#ma-veille-des-marchés-dentreprises)
 <br/>
 [Ma veille cyber](#ma-veille-cyber-)
+<br/>
+[Comment faire une veille -  version rapide](#comment-faire-une-veille)
 
 
 
@@ -979,3 +981,21 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 </div>
 </div>
 
+
+
+## Comment faire une veille
+
+J'utilise :
+![Logo de Feedly](https://cdn.icon-icons.com/icons2/2699/PNG/512/feedly_logo_icon_169177.png)
+Feedly (https://feedly.com/) pour regrouper tout mon feed :
+![img.png](assets_img/feedly.png)
+
+
+Et je relie Feedly à l'application NetNewsWire (https://netnewswire.com/ - malheureusement pas disponible uniquement sur Mac - sur Windows/Linux, on peut lire sur Feedly ou rechercher une autre solution de lecture). J'aime bien la simplicité de l'application qui me permet de lire rapidement, bien plus vite que sur Feedly ou encore Readwise Reader (https://readwise.io/read), qui est très bien aussi, je recommande.
+
+
+Mon Flux de travail avec NetNewsWire :
+![Logo de NetNewsWire](https://upload.wikimedia.org/wikipedia/commons/0/04/NetNewsWire_icon.png)
+![img.png](assets_img/netNewsWire.png)
+
+Ce n'est pas grave de ne pas tout lire. L'important, c'est de noter ce qu'on trouve d'intéressant, pour s'organiser et organiser une session dans la semaine pour tester ce qu'on a repéré dans notre veille (nouvel outil, process, manière de coder, formation, vidéo, ...).

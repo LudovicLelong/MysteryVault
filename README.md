@@ -15,4 +15,4 @@ Dès que quelque chose en code me paraît intéressant, je le mettrai ici. 💻 
 
 
 ### Sur les base de données
-- Projet pour représenter notre BDD  et ses tables schématiquement en Python : [Le projet DBSchema](./base_de_donnees)
+- Projet pour représenter notre BDD  et ses tables schématiquement en Python : [Le projet DBSchema](./base_de_donnees/DBSchema)

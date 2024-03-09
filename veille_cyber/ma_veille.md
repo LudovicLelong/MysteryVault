@@ -2,6 +2,7 @@
 
 Cette veille cyber comprend une veille technologique, une veille du marché des entreprises
 avec également des sondages et, bien sûr, une veille spécifique à la cyber.
+Je vais maintenir cette page à jour. 
 
 
 ### Sommaire 

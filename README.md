@@ -5,3 +5,14 @@ Je compile dans ce readme un répertoire d'éléments (fonctions, algorithmes, c
 Ce dépôt Git est un mélange de choses utiles mais pas suffisamment grandes pour être dans un répertoire pour eux tout seul. 🛠️
 
 Dès que quelque chose en code me paraît intéressant, je le mettrai ici. 💻 Je vais trier les éléments par usage : un dossier = un usage (exemple base de données / Brute force / XSS / ...). À l'intérieur de chaque cas d'usage, il y aura un README indépendant pour expliquer en détail ce que c'est et éviter de perdre du temps à lire le code et essayer de comprendre. 📖🔍
+
+
+## Les projets pour l'instant
+
+
+### Culture
+- 📰 Explication de mon feed : [Ma veille](./veille_cyber/ma_veille.md)
+
+
+### Sur les base de données
+- Projet pour représenter notre BDD  et ses tables schématiquement en Python : [Le projet DBSchema](./base_de_donnees)

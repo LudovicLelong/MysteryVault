@@ -212,7 +212,9 @@ avec également des sondages et, bien sûr, une veille spécifique à la cyber.
 <p>Les newsletters : <a href="https://tldr.tech/newsletters" >TLDR newsletters</a></p>
 </div>
 </div>
-Vraiment super, plusieurs thématiques, prenez ceux qui vous conviennent le plus. Moi, newsletter classique et InfoSec.
+Vraiment super, plusieurs thématiques, prenez ceux qui vous conviennent le plus. Moi, newsletter classique et InfoSec. 
+Il y a aussi une bonne newsletter IA, que je n'ai pas mise dans ma veille car après ca fait 
+beaucoup beaucoup trop d'articles à lire chaques jours.
 
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">

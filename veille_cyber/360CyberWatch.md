@@ -227,3 +227,89 @@ avec également des sondages et, bien sûr, une veille spécifique à la cyber.
 </div>
 </div>
 
+
+
+### Reddit :
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/programming/" >r/programming</a></p>
+</div>
+</div>
+
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/technology/" >r/technology</a></p>
+</div>
+</div>
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/AskComputerScience/" >r/AskComputerScience</a></p>
+</div>
+</div>
+
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/Futurology/" >r/Futurology</a></p>
+</div>
+</div>
+
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/learnprogramming/" >r/learnprogramming</a></p>
+</div>
+</div>
+
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg" height="25"> 
+
+</div>
+
+<div>
+<p>Le reddit de : <a href="https://www.reddit.com/r/sysadmin/" >r/sysadmin</a></p>
+</div>
+</div>
+
+
+
+

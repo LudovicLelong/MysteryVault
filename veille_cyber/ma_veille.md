@@ -438,7 +438,7 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
 <div>
-<img src="https://www.opinion-way.com/images/template/logo-opinionway.png" height="25"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Opinionway_logo.svg/2560px-Opinionway_logo.svg.png" height="25"> 
 
 </div>
 
@@ -598,7 +598,7 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 ### Gouvernements / organisations /organismes :
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
 <div>
-<img src="https://cyber.gouv.fr/themes/open_theme/logo.svg" height="40"> 
+<img src="https://cyber.gouv.fr/themes/open_theme/logo.svg" height="25"> 
 
 </div>
 

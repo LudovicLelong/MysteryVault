@@ -986,7 +986,9 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 ## Comment faire une veille
 
 J'utilise :
-![Logo de Feedly](https://cdn.icon-icons.com/icons2/2699/PNG/512/feedly_logo_icon_169177.png)
+
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/feedly_logo_icon_169177.png" height="125"> 
+
 Feedly (https://feedly.com/) pour regrouper tout mon feed :
 ![img.png](assets_img/feedly.png)
 
@@ -995,7 +997,9 @@ Et je relie Feedly à l'application NetNewsWire (https://netnewswire.com/ - malh
 
 
 Mon Flux de travail avec NetNewsWire :
-![Logo de NetNewsWire](https://upload.wikimedia.org/wikipedia/commons/0/04/NetNewsWire_icon.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/NetNewsWire_icon.png" height="125">
+
 ![img.png](assets_img/netNewsWire.png)
 
 Ce n'est pas grave de ne pas tout lire. L'important, c'est de noter ce qu'on trouve d'intéressant, pour s'organiser et organiser une session dans la semaine pour tester ce qu'on a repéré dans notre veille (nouvel outil, process, manière de coder, formation, vidéo, ...).

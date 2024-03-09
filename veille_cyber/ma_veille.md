@@ -234,7 +234,7 @@ beaucoup beaucoup trop d'articles à lire chaques jours.
 </div>
 
 <div>
-<p>Les newsletters : <a href="https://daily.dev/" >Daily.dev</a></p>
+<p>Le site : <a href="https://daily.dev/" >Daily.dev</a></p>
 </div>
 </div>
 Chaqu'une de vos lectures sont comptabilisés. Ce qui vous permet de sortir une carte daily.dev en a. La mienne par exemple d'aujourd'hui (pour les CV) :

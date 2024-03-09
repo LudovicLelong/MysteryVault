@@ -1003,3 +1003,10 @@ Mon Flux de travail avec NetNewsWire :
 ![img.png](assets_img/netNewsWire.png)
 
 Ce n'est pas grave de ne pas tout lire. L'important, c'est de noter ce qu'on trouve d'intéressant, pour s'organiser et organiser une session dans la semaine pour tester ce qu'on a repéré dans notre veille (nouvel outil, process, manière de coder, formation, vidéo, ...).
+
+### Utiliser mon feed opml
+
+Vous pouvez utiliser mon fichier OPML qui regroupe tous les sites énoncés plus haut et le téléverser dans votre feed préféré, comme Feedly, pour garder vos sources.
+
+Lien de téléchargement :
+[Mon feedly opml](./assets_img/feedly-844a7b0f-caa5-412e-ac05-6ef0c0e747e4-2024-03-09.opml)

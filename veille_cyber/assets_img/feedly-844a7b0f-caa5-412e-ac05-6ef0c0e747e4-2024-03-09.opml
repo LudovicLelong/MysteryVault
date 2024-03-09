@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ludovic subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Le marché des entreprise" title="Le marché des entreprise">
+            <outline type="rss" text="FRENCHWEB.FR" title="FRENCHWEB.FR" xmlUrl="http://feeds.feedburner.com/frenchweb" htmlUrl="https://www.frenchweb.fr/"/>
+            <outline type="rss" text="Maddyness - Le média pour comprendre l'économie de demain" title="Maddyness - Le média pour comprendre l'économie de demain" xmlUrl="https://www.maddyness.com/feed/" htmlUrl="https://www.maddyness.com/"/>
+        </outline>
+        <outline text="Veille technologique" title="Veille technologique">
+            <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed/" htmlUrl="https://venturebeat.com/"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+            <outline type="rss" text="Journal du hacker" title="Journal du hacker" xmlUrl="https://infos.mytux.fr/rss" htmlUrl="https://www.journalduhacker.net/"/>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline type="rss" text="Vox - Technology" title="Vox - Technology" xmlUrl="http://www.vox.com/rss/technology/index.xml" htmlUrl="https://www.vox.com/technology"/>
+            <outline type="rss" text="Best posts on r/sysadmin" title="Best posts on r/sysadmin" xmlUrl="https://api.reddit.com/subreddit/sysadmin;best" htmlUrl="https://www.reddit.com/r/sysadmin/best"/>
+            <outline type="rss" text="Dévoreur 2 Code | RSS Feed" title="Dévoreur 2 Code | RSS Feed" xmlUrl="https://www.devoreur2code.com/rss/feed.en.xml" htmlUrl="https://www.devoreur2code.com"/>
+            <outline type="rss" text="Top posts on r/technology" title="Top posts on r/technology" xmlUrl="https://api.reddit.com/subreddit/technology;top" htmlUrl="https://www.reddit.com/r/technology/top?t=day"/>
+            <outline type="rss" text="Best posts on r/Futurology" title="Best posts on r/Futurology" xmlUrl="https://api.reddit.com/subreddit/Futurology;best" htmlUrl="https://www.reddit.com/r/Futurology/best"/>
+            <outline type="rss" text="ZDNet - Business et Solutions IT" title="ZDNet - Business et Solutions IT" xmlUrl="http://www.businessmobile.fr/flux/rss/actualites/" htmlUrl="https://www.zdnet.fr/feeds/rss/"/>
+            <outline type="rss" text="Lobsters" title="Lobsters" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+            <outline type="rss" text="Top posts on r/programming" title="Top posts on r/programming" xmlUrl="https://api.reddit.com/subreddit/programming;top" htmlUrl="https://www.reddit.com/r/programming/top?t=day"/>
+            <outline type="rss" text="The Verge - All Posts" title="The Verge - All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
+            <outline type="rss" text="GeekWire" title="GeekWire" xmlUrl="http://feeds.feedburner.com/geekwire" htmlUrl="https://www.geekwire.com/"/>
+            <outline type="rss" text="PhoenixJP.News FR - Numérique (2)" title="PhoenixJP.News FR - Numérique (2)" xmlUrl="http://feeds.feedburner.com/phoenixjp/RBvU" htmlUrl="http://phoenixjp.net/news"/>
+            <outline type="rss" text="Les Echos Tech" title="Les Echos Tech" xmlUrl="https://services.lesechos.fr/rss/les-echos-tech-medias.xml" htmlUrl="https://www.lesechos.fr/tech-medias"/>
+            <outline type="rss" text="Computing – MIT Technology Review" title="Computing – MIT Technology Review" xmlUrl="http://www.technologyreview.com/computing/rss/" htmlUrl="https://www.technologyreview.com"/>
+            <outline type="rss" text="Best posts on r/AskComputerScience" title="Best posts on r/AskComputerScience" xmlUrl="https://api.reddit.com/subreddit/AskComputerScience;best" htmlUrl="https://www.reddit.com/r/AskComputerScience/best"/>
+            <outline type="rss" text="French Tech" title="French Tech" xmlUrl="http://www.usine-digitale.fr/french-tech/rss" htmlUrl="https://www.usine-digitale.fr"/>
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/"/>
+            <outline type="rss" text="Knight First Amendment Institute" title="Knight First Amendment Institute" xmlUrl="https://knightcolumbia.org/rss?v=2" htmlUrl="https://knightcolumbia.org/"/>
+            <outline type="rss" text="Best posts on r/learnprogramming" title="Best posts on r/learnprogramming" xmlUrl="https://api.reddit.com/subreddit/learnprogramming;best" htmlUrl="https://www.reddit.com/r/learnprogramming/best"/>
+            <outline type="rss" text="Korben" title="Korben" xmlUrl="http://korben.info/feed" htmlUrl="https://korben.info"/>
+        </outline>
+        <outline text="Veille cyber" title="Veille cyber">
+            <outline type="rss" text="r/crypto" title="r/crypto" xmlUrl="https://api.reddit.com/subreddit/crypto/844a7b0f-caa5-412e-ac05-6ef0c0e747e4" htmlUrl="https://www.reddit.com/r/crypto/new"/>
+            <outline type="rss" text="Best posts on r/netsec" title="Best posts on r/netsec" xmlUrl="https://api.reddit.com/subreddit/netsec;best" htmlUrl="https://www.reddit.com/r/netsec/best"/>
+            <outline type="rss" text="Best posts on r/computerforensics" title="Best posts on r/computerforensics" xmlUrl="https://api.reddit.com/subreddit/computerforensics;best" htmlUrl="https://www.reddit.com/r/computerforensics/best"/>
+            <outline type="rss" text="ZATAZ" title="ZATAZ" xmlUrl="https://www.zataz.com/feed/" htmlUrl="https://www.zataz.com"/>
+            <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="http://www.cert.ssi.gouv.fr/site/cert-fr.rss" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+            <outline type="rss" text="Best posts on r/Information_Security" title="Best posts on r/Information_Security" xmlUrl="https://api.reddit.com/subreddit/Information_Security;best" htmlUrl="https://www.reddit.com/r/Information_Security/best"/>
+            <outline type="rss" text="Best posts on r/AskNetsec" title="Best posts on r/AskNetsec" xmlUrl="https://api.reddit.com/subreddit/AskNetsec;best" htmlUrl="https://www.reddit.com/r/AskNetsec/best"/>
+            <outline type="rss" text="Best posts on r/blackhat" title="Best posts on r/blackhat" xmlUrl="https://api.reddit.com/subreddit/blackhat;best" htmlUrl="https://www.reddit.com/r/blackhat/best"/>
+            <outline type="rss" text="UnderNews" title="UnderNews" xmlUrl="http://feeds.feedburner.com/undernews/oCmA" htmlUrl="https://www.undernews.fr"/>
+            <outline type="rss" text="https://veillecyberland.wordpress.com/" title="https://veillecyberland.wordpress.com/" xmlUrl="https://feedly.com/f/alert/219e767e-f15d-4cba-bbfe-53cbe9dd2c6c"/>
+            <outline type="rss" text="Best posts on r/blueteamsec" title="Best posts on r/blueteamsec" xmlUrl="https://api.reddit.com/subreddit/blueteamsec;best" htmlUrl="https://www.reddit.com/r/blueteamsec/best"/>
+            <outline type="rss" text="CSO Online" title="CSO Online" xmlUrl="https://www.csoonline.com/feed/"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="http://feeds.feedburner.com/GrahamCluleysBlog" htmlUrl="https://grahamcluley.com"/>
+            <outline type="rss" text="ANSSI - Actualités" title="ANSSI - Actualités" xmlUrl="https://cyber.gouv.fr/actualites/feed" htmlUrl="https://cyber.gouv.fr/"/>
+            <outline type="rss" text="Best posts on r/redteamsec" title="Best posts on r/redteamsec" xmlUrl="https://api.reddit.com/subreddit/redteamsec;best" htmlUrl="https://www.reddit.com/r/redteamsec/best"/>
+            <outline type="rss" text="Best posts on r/Malware" title="Best posts on r/Malware" xmlUrl="https://api.reddit.com/subreddit/Malware;best" htmlUrl="https://www.reddit.com/r/Malware/best"/>
+            <outline type="rss" text="Reuters cyber" title="Reuters cyber" xmlUrl="https://feedly.com/web/73b4d0cf-f464-4f77-ac76-7776beebcb61" htmlUrl="https://www.reuters.com/technology/cybersecurity/"/>
+            <outline type="rss" text="Best posts on r/InfoSecNews" title="Best posts on r/InfoSecNews" xmlUrl="https://api.reddit.com/subreddit/InfoSecNews;best" htmlUrl="https://www.reddit.com/r/InfoSecNews/best"/>
+            <outline type="rss" text="HackerNoon - cybersecurity" title="HackerNoon - cybersecurity" xmlUrl="https://hackernoon.com/tagged/cybersecurity/feed" htmlUrl="https://hackernoon.com/tagged/cybersecurity"/>
+            <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="http://feeds.feedburner.com/Securityweek" htmlUrl="https://www.securityweek.com/"/>
+            <outline type="rss" text="Best posts on r/ReverseEngineering" title="Best posts on r/ReverseEngineering" xmlUrl="https://api.reddit.com/subreddit/ReverseEngineering;best" htmlUrl="https://www.reddit.com/r/ReverseEngineering/best"/>
+            <outline type="rss" text="The Hacker News | #1 Trusted Cybersecurity News Site" title="The Hacker News | #1 Trusted Cybersecurity News Site" xmlUrl="http://www.blogger.com/feeds/4802841478634147276/posts/default" htmlUrl="http://thehackernews.com/"/>
+            <outline type="rss" text="Best posts on r/hacking" title="Best posts on r/hacking" xmlUrl="https://api.reddit.com/subreddit/hacking;best" htmlUrl="https://www.reddit.com/r/hacking/best"/>
+            <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="http://feeds2.feedburner.com/HelpNetSecurity" htmlUrl="https://www.helpnetsecurity.com/"/>
+        </outline>
+        <outline text="Sondages" title="Sondages">
+            <outline type="rss" text="opinionWay" title="opinionWay" xmlUrl="https://feedly.com/web/8508d1b8-d8b9-45c2-86d7-98cd1d34f22d" htmlUrl="https://www.opinion-way.com/en/multimedia/presse.html"/>
+            <outline type="rss" text="IFOP" title="IFOP" xmlUrl="https://www.ifop.com/feed/?post_type=publication" htmlUrl="https://www.ifop.com/"/>
+            <outline type="rss" text="Institut Viavoice" title="Institut Viavoice" xmlUrl="https://www.institut-viavoice.com/feed/" htmlUrl="https://www.institut-viavoice.com/"/>
+            <outline type="rss" text="CSA" title="CSA" xmlUrl="https://feedly.com/web/df42cb86-42c0-443d-ae45-6824789c26fc" htmlUrl="https://csa.eu/news/"/>
+            <outline type="rss" text="YouGov | News" title="YouGov | News" xmlUrl="https://today.yougov.com/news/feeds/latest/" htmlUrl="https://today.yougov.com/news/feeds/latest/"/>
+        </outline>
+    </body>
+</opml>

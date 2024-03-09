@@ -224,8 +224,11 @@ Vraiment super, plusieurs thématiques, prenez ceux qui vous conviennent le plus
 <p>Les newsletters : <a href="https://daily.dev/" >Daily.dev</a></p>
 </div>
 </div>
-Chaqu'une de vos lectures sont comptabilisés. Ce qui vous poermet de sortir une carte daily.dev en a. La mienne par exemple d'aujourd'hui (pour les CV) :
+Chaqu'une de vos lectures sont comptabilisés. Ce qui vous permet de sortir une carte daily.dev en a. La mienne par exemple d'aujourd'hui (pour les CV) :
+
+<div>
 <a href="https://app.daily.dev/ludovic28"><img src="https://api.daily.dev/devcards/v2/bM3xcG3wyvqRkRHnMd6Aw.png?r=s7v" width="356" alt="Ludovic Lelong's Dev Card"/></a>
+</div>
 Hyper intéressant, filtres et barre de recherche très pertinentes. Les articles hot, ou les mieux notés sont en haut.
 
 

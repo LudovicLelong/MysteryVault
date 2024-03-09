@@ -1008,5 +1008,5 @@ Ce n'est pas grave de ne pas tout lire. L'important, c'est de noter ce qu'on tro
 
 Vous pouvez utiliser mon fichier OPML qui regroupe tous les sites énoncés plus haut et le téléverser dans votre feed préféré, comme Feedly, pour garder vos sources.
 
-Lien de téléchargement :
+Lien vers la page opml :
 [Mon feedly opml](./assets_img/feedly-844a7b0f-caa5-412e-ac05-6ef0c0e747e4-2024-03-09.opml)

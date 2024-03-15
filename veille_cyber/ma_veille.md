@@ -385,6 +385,8 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 </div>
 
 
+
+
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
 <div>
 <img src="https://www.frenchweb.fr/wp-content/uploads/2022/08/logo-frenchweb-2023-vf.png" height="25"> 
@@ -395,6 +397,22 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 <p>Le site de : <a href="https://www.frenchweb.fr/" >Frenchweb</a></p>
 </div>
 </div>
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://ph-static.imgix.net/ph-logo-1.png" height="25"> 
+
+</div>
+
+<div>
+<p>Le site de : <a href="https://www.producthunt.com/" >Product Hunt</a></p>
+</div>
+</div>
+
+
+
+
 
 ### Sondages
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">

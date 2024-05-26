@@ -619,7 +619,7 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 </div>
 
 <div>
-<p>Le site de : <a href="https://www.scmagazine.com/" >Security Week </a></p>
+<p>Le site de : <a href="https://www.scmagazine.com/" >SCmagazine </a></p>
 </div>
 </div>
 

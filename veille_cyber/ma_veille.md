@@ -612,6 +612,19 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 
 
 
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://vigitrust.com/wp-content/uploads/2021/02/SC-Magazine-Logo.png" height="25"> 
+
+</div>
+
+<div>
+<p>Le site de : <a href="https://www.scmagazine.com/" >Security Week </a></p>
+</div>
+</div>
+
+
+
 ### Blog : 
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">

@@ -64,7 +64,7 @@ Je vais maintenir cette page à jour.
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
 <div>
-<img src="https://www.vectorlogo.zone/logos/venturebeat/venturebeat-ar21.png" height="25"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/VentureBeat_logo.svg/2560px-VentureBeat_logo.svg.png" height="25"> 
 
 </div>
 

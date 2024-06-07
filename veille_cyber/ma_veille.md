@@ -216,6 +216,18 @@ Je vais maintenir cette page à jour.
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
 <div>
+<img src="http://www.developpez.com/logos/images/logo-dvp-1350x560.png" height="25"> 
+
+</div>
+
+<div>
+<p>Le site : <a href="https://www.developpez.com/" >Developpez.com</a></p>
+</div>
+</div>
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
 <img src="https://pbs.twimg.com/profile_images/1069810843951411200/pNNOq5nL_400x400.jpg" height="25"> 
 
 </div>
@@ -270,6 +282,20 @@ Hyper intéressant, filtres et barre de recherche très pertinentes. Les article
 <p>Le blog de : <a href="https://www.devoreur2code.com/fr" >Fabien Schlegel</a></p>
 </div>
 </div>
+
+
+
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin: 10px">
+<div>
+<img src="https://justinjackson.ca/assets/brutal/justin-jackson-dots-circle.png" height="25"> 
+
+</div>
+
+<div>
+<p>Le blog de : <a href="https://justinjackson.ca/" >Justin Jackson Blog</a></p>
+</div>
+</div>
+
 
 
 
